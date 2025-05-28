@@ -5,15 +5,12 @@
 This repository contains an implementation of an RNN-based model (using LSTMs) for forecasting PM2.5 air pollution levels in Beijing.
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
 - [Data Preprocessing](#data-preprocessing)
 - [Model Architecture](#model-architecture)
 - [Training and Evaluation](#training-and-evaluation)
 - [Results and Visualizations](#results-and-visualizations)
-- [Usage](#usage)
 - [References](#references)
 
 ---
